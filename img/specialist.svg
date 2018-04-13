@@ -1,0 +1,39 @@
+<svg id="Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 155.49 154.21">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-1 {
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <title>специалист</title>
+  <path class="cls-1" transform="translate(0.75 -0.15)"/>
+  <g>
+    <circle class="cls-2" cx="59.87" cy="59.87" r="58.87"/>
+    <circle class="cls-2" cx="59.71" cy="59.95" r="43.96"/>
+    <path class="cls-2" d="M93.58,107.77c-1,.7,8,8,8,8,.36.36-2.92,2-1.81,3.6,3.8,5.66,31.9,31.88,38.44,33.69,7.37,2,17.87-8.28,15.08-15-2.42-5.87-28.25-32.67-34.38-37.75-1.06-.88-3.11,2.14-3.5,1.75,0,0-7.72-8.72-8.11-8.11A58.31,58.31,0,0,1,93.58,107.77Z" transform="translate(0.75 -0.15)"/>
+    <path class="cls-2" d="M105.33,118.9l12.84-12.84S142.48,130,146,134.85c6,8.38-3.25,16.54-12.46,10.63C127.52,141.61,105.33,118.9,105.33,118.9Z" transform="translate(0.75 -0.15)"/>
+    <ellipse class="cls-2" cx="59.88" cy="56.83" rx="12.41" ry="15.92"/>
+    <path class="cls-2" d="M62.79,46.18c.15-.62,2.12,8.75,8.71,11.9" transform="translate(0.75 -0.15)"/>
+    <path class="cls-2" d="M46.72,57.08A18.74,18.74,0,0,0,56.29,54c4.91-3.67,5.91-7.84,6.65-7.76" transform="translate(0.75 -0.15)"/>
+    <path class="cls-2" d="M32.74,95.37C36.87,84,47.17,76,59.22,76s22.16,7.88,26.38,19" transform="translate(0.75 -0.15)"/>
+    <polyline class="cls-2" points="55.41 76.25 57.41 79.93 62.22 79.93 64.28 76.25"/>
+    <polyline class="cls-2" points="50.87 77.46 53.91 82.31 49.75 102.77"/>
+    <polyline class="cls-2" points="68.65 77.46 65.62 82.31 69.78 102.77"/>
+    <polygon class="cls-2" points="57.78 83.93 61.78 83.93 64.85 98.99 59.7 103.45 54.6 98.74 57.78 83.93"/>
+  </g>
+  <circle cx="63.54" cy="46.04" r="1.02"/>
+  <circle cx="63.54" cy="46.74" r="1.02"/>
+  <circle cx="63.14" cy="46.8" r="1.02"/>
+  <circle cx="63.77" cy="46.8" r="1.02"/>
+</svg>

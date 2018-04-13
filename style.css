@@ -1,0 +1,375 @@
+body {
+	width: 100%;
+	margin: 0;
+	font-family: Roboto-Bold;
+}
+select {
+	width: 455px;
+	height: 40px;
+	border-radius: 5px;
+}
+input{
+	height: 40px;
+	border-radius: 5px;
+}
+@font-face {
+	font-family: "Roboto-Bold";
+	src: url("font/Roboto-Bold.eot");
+	src: url("font/Roboto-Bold.eot?#iefix") format("embedded-opentype"),
+	url("font/Roboto-Bold.woff") format("woff"),
+	url("font/Roboto-Bold.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
+.header {
+	background-color: #27140d;
+	height: 70px;
+	width: 100%;
+	position: fixed;
+}
+.osa-ico {
+	padding-left: 30px;
+	display: inline-block;
+}
+.osa-ico img {
+	width: 65px;
+	height: 65px;
+}
+.header a {
+	display: inline-block;
+	text-decoration: none;
+	color: #f8e666;
+	font-size: 20px;
+	margin: 5px;
+}
+.header ul {
+	list-style: none;
+	display: inline-block;
+	padding-left: 300px;
+	position: fixed;
+}
+.icons {
+	display: inline-block;
+	float: right;
+	padding-right: 50px;
+}
+.icons img {
+	width: 25px;
+	height: 25px;
+	padding-top: 15px;
+}
+.big-images {
+	background-image: url(img/big-images.png);
+	height: 700px;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	color: white;
+}
+.big-images img {
+	height: 1650px;
+}
+.big-images h1 {
+	padding-top: 160px;
+	padding-left: 150px;
+	font-size: 60px;
+	margin: 0;
+}
+.bottom-in-images {
+	color: black;
+	height: 40px;
+	width: 200px;
+	background-color: #f8e666;
+	border-radius: 3px;
+	text-align: center;
+	margin-top: 30px;
+	margin-left: 150px; 
+}
+.bottom-in-images span {
+	line-height: 40px;
+}
+.video {
+	padding-left: 90px;
+	padding-top: 80px;
+	height: 390px;
+}
+.text-to-video {
+	float: right;
+	padding-right: 110px;
+}
+.text-to-video h1 {
+	line-height: 0;
+	color: #424242;
+}
+.text-to-video p {
+	width: 450px;
+	font-size: 16.8px;
+	color: #424242;
+}
+.container {
+	background-color: #625952;
+	width: 100%; 
+}
+.container h1 {
+	text-align: center;
+	color: white;
+	padding-top: 40px;
+}
+.emblems {
+	display: table-row;
+}
+.emblems p {
+	font-size: 20px;
+}
+.emblem1 {
+	float: left;
+	padding: 12px 98px;
+	text-align: center;
+	color: white;
+}
+.emblem2 {
+	float: left;
+	padding: 12px 98px;
+	text-align: center;
+	color: white;
+}
+.emblem3 {
+	float: left;
+	padding: 12px 98px;
+	text-align: center;
+	color: white;
+}
+.emblem4 {
+	float: left;
+	padding: 12px 98px;
+	text-align: center;
+	color: white;
+}
+.emblem5 {
+	float: left;
+	padding-top: 10px;
+	padding-bottom: 100px;
+	padding-left: 417px;
+	text-align: center;
+	color: white;
+}
+.emblem6 {
+	float: left;
+	padding-top: 10px;
+	padding-bottom: 100px;
+	padding-left: 194px;
+	text-align: center;
+	color: white;
+}
+.emblem-hover {
+	width: 200px;
+	height: 250px;
+	color: #625952;
+	position: absolute;
+	top: 1250px;
+	left: 60px;
+}
+.emblem-hover p {
+	visibility: hidden;
+}
+.emblem-hover:hover {
+	color: #424242;
+	background-color: white; 
+}
+.emblem-hover p:hover {
+	visibility: visible; 
+}
+.info p {
+	color: white;
+    text-align: center;
+    font-size: 26px;
+    padding-bottom: 40px;
+}
+.container2 {
+	width: 100%;
+	text-align: center;
+	background-image: url(img/osa-bg2.png);
+}
+.container2 p {
+	padding-bottom: 50px;
+	font-size: 20px;
+}
+.container2 img {
+	width: 200px;
+	height: 200px;
+	padding-bottom: 30px;
+}
+.container3 {
+	width: 100%;
+	background-color: #625952;
+}
+.container3 h1 {
+	text-align: center;
+	padding-top: 40px;
+	color: white;
+}
+.content-cell-33 {
+	display: inline-block;
+	padding: 10px;
+}
+.content-cell-33 img {
+	width: 400px;
+	height: 250px;
+}
+.gellery {
+	padding-left: 35px;
+	padding-bottom: 40px;
+}
+.container4 {
+	background-image: url(img/osa-bg2.png);
+}
+.left-half {
+	padding-left: 30px;
+	display: inline-block;
+	width: 47%;
+}
+.left-half img {
+	width: 150px;
+	height: 115px;
+}
+.avatar {
+	display: inline-block;
+	padding-bottom: 26px;
+}
+.comment {
+	display: inline-block;
+	padding-bottom: 26px;
+}
+.right-half {
+	display: inline-block;
+	padding-left: 25px;
+	border-left: 2px solid #ccc;
+	margin-top: 50px;
+}
+.form form {
+	font-size: 7px;
+}
+.form input {
+	height: 40px;
+	border-radius: 3px;
+	font-size: 17px;
+	background-color: #f8e666;
+	border: 0px;
+	outline:none;
+}
+.form select {
+	width: 579px;
+	height: 40px;
+	border-radius: 3px;
+	font-size: 17px;
+	background-color: #f8e666;
+	border: 0px;
+	outline:none;
+}
+.form textarea {
+	border-radius: 3px;
+	font-size: 17px;
+	background-color: #f8e666;
+	resize: none;
+	border: 0px;
+	outline:none;
+}
+.right-half>h2 {
+	font-size: 15px;
+}
+.bottom {
+	width: 200px;
+	height: 40px;
+	background-color: #27140d;
+	border-radius: 3px;
+	color: #f8e666;
+	text-align: center;  
+}
+.bottom span {
+	line-height: 40px;
+}
+.container5 {
+	width: 100%;
+	text-align: center;
+}
+.autor {
+	display: inline-block;
+	padding: 10px;
+	text-align: center;
+}
+.autor a {
+	color: #696969;
+}
+.disiners {
+	padding-left: 20px;
+	padding-top: 20px;
+}
+.container6 {
+	background-image: url(img/screen8.jpg);
+	width: 100%;
+	height: 650px;
+	text-align: center;
+	color: white;
+}
+.container6 h1 {
+	padding-top: 30px;
+	padding-bottom: 360px;
+}
+.map {
+	display: inline-block;
+}
+.content-cell-50 {
+	display: inline-block;
+	background-color: #f8e666;
+	width: 695px;
+	float: right;
+}
+.first-cell {
+	float: left;
+	padding-right: 70px;
+	padding-left: 70px;
+	padding-top: 40px;
+}
+.second-cell {
+	padding-top: 65px;
+	padding-bottom: 20px;
+}
+.content-cell-50>h2 {
+	padding-left: 70px;
+}
+.content-cell-50>p {
+	padding-left: 70px;
+	padding-top: 20px;
+}
+.form2 input {
+	border: 0px;
+	border-radius: 3px;
+	font-size: 17px;
+	outline:none;
+}
+.form2 textarea {
+	border: 0px;
+	border-radius: 3px;
+	resize: none;
+	font-size: 17px;
+	outline:none;
+}
+.form2 {
+	padding-left: 70px;
+}
+.form2 form {
+	font-size: 7px;
+}
+.bottom2 {
+	width: 200px;
+	height: 40px;
+	background-color: #27140d;
+	border-radius: 3px;
+	color: #f8e666;
+	text-align: center;
+	margin-left: 70px;
+	margin-top: 30px;
+	margin-bottom: 50px;
+}
+.bottom2 span {
+	line-height: 40px
+}
